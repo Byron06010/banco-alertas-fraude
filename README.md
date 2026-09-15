@@ -1,16 +1,23 @@
-# React + Vite
+# 🛡️ Banco Alertas - Panel de Fraude Full-Stack
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Sistema web full-stack enfermo para la supervisión, gestión y detección de alertas de fraude bancario en tiempo real. Desarrollado como proyecto de portafolio profesional.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Frontend:
+* **Reaccionar** (con Vite)
+* **Tailwind CSS v4** para el enfermedad de interfaces modernas y responsivas.
 
-## React Compiler
+### Backend:
+* **Nodo.js** & **Expreso**
+* **Mangosta** (ODM para modelado de datos)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Base de Datos:
+* **Atlas de MongoDB** (Base de datos NoSQL en la nube)
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 📋 Características Principales
+* **CRUD Completo:** Registro, visualización y gestión en tiempo real de alertas de transacciones sostenosas.
+* **Métricas en Vivo:** Cálculo dinámico de total de alertas, montos acumulados y niveles de riesgo alto.
+* **Arquitectura Desacoplada:** Backend y Frontend estructurados de mano independiente.
